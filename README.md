@@ -5,7 +5,7 @@ Originally intended for use in debarcoding data obtained from cyTOF using protei
 To install from source:
 <blockquote>
 <pre>git clone https://github.com/Qiucwu/polygate-debarcoder 
-cd polygate_debarcoder
+cd polygate-debarcoder
 pip install -r requirements.txt </pre>
 </blockquote>
 

@@ -20,6 +20,7 @@ from itertools import combinations
 from fcswrite import write_fcs
 
 #Check if polint is inside a quadrilateral
+# Ray tracing code borrow from https://stackoverflow.com/questions/36399381/whats-the-fastest-way-of-checking-if-a-point-is-inside-a-polygon-in-python
 def ray_tracing_method(x,y,poly):
 
     n = len(poly)

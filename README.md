@@ -1,5 +1,5 @@
 # polygate-debarcoder
-Takes cyTOF and polygon gates and outputs gated data with positive three tag barcodes
+Takes cyTOF data and polygon gates drawn on flowjo and outputs gated data with positive three tag barcodes
 Originally intended for use in debarcoding data obtained from cyTOF using protein barcodes introduced in  <a href="https://www.sciencedirect.com/science/article/pii/S0092867418312340?via%3Dihub">Wroblewska et al. 2018</a>.
 
 To install from source:

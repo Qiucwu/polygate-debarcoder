@@ -42,7 +42,9 @@ Gates are currently obtained from flowjo by gating on (x) metal of interest and 
     <td> name of tag </td>
     <td> % of cells positive for that metal </td>
     <td> absolute number of cells positive for that metal </td>
-    <td> <b>quatrilateral</b> gate coordinates exported from flowjo/FCSexpress </td>
+    <td> <b>**quatrilateral</b> gate coordinates exported from flowjo/FCSexpress </td>
   </tr>
   </table>
+  
+  ** Program can only take gates with 4 vertices! Modify the ray_tracing_method function with your own function
  

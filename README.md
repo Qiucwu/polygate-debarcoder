@@ -26,7 +26,7 @@ Open terminal and navigate to path of the program. Run init.py file
   <li>CyTOF FCS file placed into folder ('fcs_file')</li>
   <li>Folder name</li>
 </ol>
-<p> Outputs: </p>
+<p> Outputs will be saved into folder ('Debarcoded Files'): </p>
 <ol>
   <li>Individual debarcoded files</li>
   <li>Distribution of barcodes within cell population</li>

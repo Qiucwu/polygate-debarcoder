@@ -35,6 +35,8 @@ Open terminal and navigate to path of the program. Run init.py file
 
 ## Gate Coordinate Requirement
 The formating of the gate coordinates files is essential for running the program. Make sure that you have your gate coordinates file in an .xls file in the format dictacted below. An example gate coordinates file will be provided in the folder "coordinates"
+Gates are currently obtained from flowjo by gating on (x) metal of interest and (y) NGFR(metal 149). You may change the metal on the y-axis that you are gating for, but be sure to change it in the gate functions.
+
 <table> <tr> <th>Metal</th>	<th>Name</th>	<th>Statistic</th>	<th>#Cells</th>	<th>Gate Coordinates</th> </tr>
   <tr> <td> mass of metal </td>
     <td> name of tag </td>
